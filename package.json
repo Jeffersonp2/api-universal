@@ -6,7 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "ngrok": "ngrok http 3000",
     "start": "node app.js",
-    "serve": "node app.js"
+    "serve": "node app.js",
+    "jogo": "node jogo.js"
   },
   "author": "jefferson oliveira",
   "license": "ISC",
